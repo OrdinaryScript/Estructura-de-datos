@@ -4,10 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// Campos Guillen Eduardo
-// Ing. Sistemas Computacionales
-// Estructura de Datos
-
 namespace Tres_recorridos
 {
     class Program
